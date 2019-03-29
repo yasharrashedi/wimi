@@ -18,11 +18,11 @@ My Public IP address: 66.73.64.123
 
 # Installation
 ```shell
-sudo curl -L "https://raw.githubusercontent.com/yasharrashedi/wimi/master/wimi" -o /usr/local/bin/wimi && chmod +x /usr/local/bin/wimi
+sudo curl -L "https://raw.githubusercontent.com/yasharrashedi/wimi/master/wimi" -o /usr/local/bin/wimi && sudo chmod +x /usr/local/bin/wimi
 ```
 
 # License
 wimi is open source software licensed under the MIT License.  
 Copyright © 2019-present, Yashar Rashedi.<br>
 
-See the [LICENSE.md](https://github.com/yasharrashedi/wimi/blob/master/LICENSE) file for more.
+See the [LICENSE](https://github.com/yasharrashedi/wimi/blob/master/LICENSE) file for more.
